@@ -1,0 +1,4 @@
+inherit: main.yaml
+constraint_solver: fixed_penalty
+penalty_coefficient: 10
+

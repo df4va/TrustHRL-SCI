@@ -1,0 +1,9 @@
+inherit: main.yaml
+grid_parameter: meta_interval_hours
+grid_values:
+  - 3
+  - 6
+  - 12
+  - 24
+selection_metric: homeostasis_restoration_score
+

@@ -1,0 +1,8 @@
+inherit: main.yaml
+grid_parameter: hidden_width
+grid_values:
+  - 128
+  - 256
+  - 512
+selection_metric: homeostasis_restoration_score
+

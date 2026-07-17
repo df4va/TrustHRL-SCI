@@ -1,0 +1,7 @@
+inherit: main.yaml
+grid_parameter: ode_step_hours
+grid_values:
+  - 0.2
+  - 0.1
+  - 0.05
+selection_metric: homeostasis_restoration_score

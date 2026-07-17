@@ -1,0 +1,8 @@
+inherit: main.yaml
+grid_parameter: discount
+grid_values:
+  - 0.95
+  - 0.99
+  - 0.999
+selection_metric: homeostasis_restoration_score
+

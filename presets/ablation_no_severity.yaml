@@ -1,0 +1,3 @@
+inherit: main.yaml
+severity_conditioning: false
+

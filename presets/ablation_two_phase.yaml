@@ -1,0 +1,8 @@
+inherit: main.yaml
+phase_boundaries:
+  - 0
+  - 24
+  - 168
+phase_count: 2
+selection_metric: homeostasis_restoration_score
+

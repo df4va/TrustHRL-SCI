@@ -1,0 +1,4 @@
+inherit: main.yaml
+hierarchy: false
+capacity_match: true
+

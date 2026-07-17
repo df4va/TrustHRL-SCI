@@ -1,0 +1,4 @@
+inherit: main.yaml
+cytokines: 4
+selected_cytokines: [TNF_ALPHA, IL_6, IL_10, TIMP_1]
+

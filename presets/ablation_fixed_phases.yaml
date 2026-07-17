@@ -1,0 +1,3 @@
+inherit: main.yaml
+phase_selection: fixed
+

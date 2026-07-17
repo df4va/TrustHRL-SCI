@@ -1,0 +1,5 @@
+Hellenbrand 28-cytokine atlas | 2024 article and supplementary data | public article terms | https://pmc.ncbi.nlm.nih.gov/articles/PMC11467934/
+GSE5296 | GEO public since 2006-07-12 | NCBI database terms and submitter data rights | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE5296
+GSE151371 | GEO public since 2021-01-22 | NCBI database terms and submitter data rights | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE151371
+GSE189070 | GEO public since 2021-11-21 | NCBI database terms and submitter data rights | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE189070
+

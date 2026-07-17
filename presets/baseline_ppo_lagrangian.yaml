@@ -1,0 +1,9 @@
+inherit: main.yaml
+method: ppo_lagrangian
+learning_rate: 0.0003
+discount: 0.99
+rollout_size: 2048
+hidden_width: 256
+lagrange_learning_rate: 0.035
+environment_steps: 500000
+

@@ -1,0 +1,9 @@
+inherit: main.yaml
+method: cpo
+learning_rate: 0.001
+discount: 0.99
+rollout_size: 2048
+hidden_width: 256
+trust_region: 0.01
+environment_steps: 500000
+

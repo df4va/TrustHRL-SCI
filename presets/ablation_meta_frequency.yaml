@@ -1,0 +1,4 @@
+inherit: main.yaml
+meta_interval_hours: 12
+selection_metric: homeostasis_restoration_score
+

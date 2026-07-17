@@ -1,0 +1,38 @@
+seed: 17
+seeds: [17, 29, 43]
+device: cuda
+precision: float32
+cytokines: 28
+actions: 8
+horizon_hours: 168
+rl_step_hours: 1.0
+ode_step_hours: 0.1
+meta_interval_hours: 6
+hidden_width: 256
+hidden_layers: 2
+environment_steps: 500000
+rollout_size: 2048
+minibatch_size: 64
+ppo_epochs: 10
+learning_rate: 0.0003
+discount: 0.99
+gae_lambda: 0.95
+clip_ratio: 0.2
+entropy_coefficient: 0.01
+value_coefficient: 0.5
+gradient_clip: 0.5
+adam_beta1: 0.9
+adam_beta2: 0.999
+lagrange_learning_rate: 0.01
+safety_budget: 0.05
+immunodeficiency_floor: 0.05
+phase_boundaries: [0, 6, 72, 168]
+train_fraction: 0.60
+validation_fraction: 0.15
+test_fraction: 0.25
+normalization: zscore
+cytokine_scaling: minmax
+transcriptomic_transform: log2_fold_change
+artifact_root: artifacts
+parameter_file: datasets/calibration/ode_parameters.npz
+

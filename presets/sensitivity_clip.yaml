@@ -1,0 +1,8 @@
+inherit: main.yaml
+grid_parameter: clip_ratio
+grid_values:
+  - 0.1
+  - 0.2
+  - 0.3
+selection_metric: homeostasis_restoration_score
+

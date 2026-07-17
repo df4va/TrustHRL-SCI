@@ -1,0 +1,8 @@
+inherit: main.yaml
+grid_parameter: lagrange_learning_rate
+grid_values:
+  - 0.005
+  - 0.01
+  - 0.05
+selection_metric: safety_constraint_rate
+
